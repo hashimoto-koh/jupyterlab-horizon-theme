@@ -33,8 +33,8 @@ all of MD as it is not optimized for dense, information rich UIs.
    * https://material-components-web.appspot.com/elevation.html
    */
 
-  --horizon-dark-cyan: #59e1e3;
-  --horizon-dark-blue: #151769;
+  --horizon-dark-cyan: #59e1e355;
+  --horizon-dark-blue: #5b5c9a;
   --horizon-dark-bg-1: #121417;
   --horizon-dark-mono-2: #828997;
   --horizon-dark-red-1: #cb6623;
@@ -217,7 +217,7 @@ all of MD as it is not optimized for dense, information rich UIs.
   ); /* This gives a magnification of about 125% in presentation mode over normal. */
 
   --jp-code-presentation-font-size: 16px; /* may need to tweak cursor width if you change font size */
-  --jp-code-cursor-width0: 1.4px;
+  --jp-code-cursor-width0: 8px;
   --jp-code-cursor-width1: 2px;
   --jp-code-cursor-width2: 4px;
 
@@ -352,7 +352,7 @@ all of MD as it is not optimized for dense, information rich UIs.
 
   --jp-editor-selected-background: var(--horizon-dark-bg-hl-unfocused);
   --jp-editor-selected-focused-background: var(--horizon-dark-bg-hl);
-  --jp-editor-cursor-color: var(--horizon-dark-blue);
+  --jp-editor-cursor-color: var(--horizon-dark-cyan);
 
   /* Code mirror specific styles */
 
