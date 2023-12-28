@@ -34,10 +34,10 @@ all of MD as it is not optimized for dense, information rich UIs.
    */
 
   --horizon-dark-cyan: #59e1e3;
-  --horizon-dark-blue: #26bbd9;
+  --horizon-dark-blue: #151769;
   --horizon-dark-bg-1: #121417;
   --horizon-dark-mono-2: #828997;
-  --horizon-dark-red-1: #e95678;
+  --horizon-dark-red-1: #cb6623;
   --horizon-dark-mono-1: #abb2bf;
   --horizon-dark-silver: #aaa;
   --horizon-dark-purple: #b877db;
@@ -48,14 +48,14 @@ all of MD as it is not optimized for dense, information rich UIs.
   --horizon-dark-gutter: #2e303e;
   --horizon-dark-fg: #abb2bf;
   --horizon-dark-green: #29d398;
-  --horizon-dark-red-2: #e95678;
+  --horizon-dark-red-2: #cb6623;
   --horizon-dark-orange-1: #fab795e6;
   --horizon-dark-mono-3: #5c6370;
   --horizon-dark-accent: #6c6f93;
-  --horizon-dark-bg: #1c1e26;
-  --horizon-dark-gray: #2e303e;
-  --horizon-bg: #1c1e26;
-  --horizon-light-bg: #232530;
+  --horizon-dark-bg: #191b23;
+  --horizon-dark-gray: #25272f;
+  --horizon-bg: #141619;
+  --horizon-light-bg: #191b23;
   --horizon-accent-1: #6c6f93;
   --horizon-error: #f43e5c;
   --horizon-accent-2: #e95378;
