@@ -434,8 +434,9 @@ all of MD as it is not optimized for dense, information rich UIs.
   --jp-icon-contrast-color3: var(--md-blue-600);
 
   /* Button colors */
-  --jp-accept-color-normal: var(--md-blue-700);
-/*   --jp-accept-color-hover: var(--md-blue-800); */
+  /* --jp-accept-color-normal: var(--md-blue-700); */
+  --jp-accept-color-normal: #ad4a00;
+  /*   --jp-accept-color-hover: var(--md-blue-800); */
   --jp-accept-color-hover: #f37626;
   /* --jp-accept-color-active: var(--md-blue-900); */
   --jp-accept-color-active: #ad4a00;
